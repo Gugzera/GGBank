@@ -1,0 +1,22 @@
+
+.corpo_home{
+    color:rgb(16, 63, 103);
+   /* text-align: center;*/
+    width: 100vw;
+    height:100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-image: url(../img/fundo-home.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* align-items: center; */
+}
+
+.texto_lado{
+    width:45%;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
